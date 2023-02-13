@@ -24,7 +24,7 @@ Au cours de cette procédure pas à pas, nous allons créer une machine virtuell
     | Région | **(États-Unis) USA Est**|
     | Options de disponibilité | Aucune option de redondance de l'infrastructure requise|
     | Image | **Windows Server 2019 Datacenter - Gen2**|
-    | Taille | **Standard D2s v3**|
+    | Taille | **B2s**|
     | Nom d’utilisateur du compte d’administrateur | **azureuser** |
     | Mot de passe du compte d’administrateur (à taper avec prudence) | **Pa$$w0rd1234**|
     | Règles de trafic entrant pour un port | **Autoriser les ports sélectionnés**|
