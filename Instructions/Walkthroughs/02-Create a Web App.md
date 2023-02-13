@@ -26,7 +26,7 @@ Dans cette tâche, vous allez créer une application web Azure App Service.
     | Nom | **myDockerWebAppxxxx** |
     | Publier | **Conteneur Docker** |
     | Système d’exploitation | **Linux** |
-    | Pricing plan (Plan de prix) | BASIC B1|
+    | Pricing plan (Plan de prix) | **BASIC B1** |
     | Région | **USA Est** |
     
     **Remarque :** N’oubliez pas de remplacer la valeur **xxxx** pour que le nom de l’application web soit unique.
